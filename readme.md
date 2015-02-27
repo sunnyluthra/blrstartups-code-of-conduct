@@ -38,7 +38,7 @@ Moderators have special authority; they are responsible for this group. But so a
 
 When you see bad behavior, don’t reply. It encourages the bad behavior by acknowledging it, consumes your energy, and wastes everyone’s time. Just report it.
 
-In order to maintain our community, moderators reserve the right to remove any content and any user for any reason at any time. Moderators do not preview new posts in any way; the moderators and site operators take no responsibility for any content posted by the community.
+In order to maintain our community, moderators reserve the right to remove any content and any user for any reason at any time. Moderators do not preview new posts in any way; the moderators take no responsibility for any content posted by the community.
 
 **Always Be Civil**
 
