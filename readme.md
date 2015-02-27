@@ -48,7 +48,7 @@ Nothing sabotages a healthy conversation like rudeness:
 - Keep it clean. Don’t post anything obscene or sexually explicit.
 - Respect each other. Don’t harass or grief anyone, impersonate people, or expose their private information.
 - Respect our group. Don’t post spam or otherwise vandalize the group.
-- These are not concrete terms with precise definitions — avoid even the appearance of any of these things. If you’re unsure, ask yourself how you would feel if your post was featured on the front page of the Times Of India.
+- These are not concrete terms with precise definitions — avoid even the appearance of any of these things. If you’re unsure, ask yourself how you would feel if your post/comment was featured on the front page of TOI or TechCrunch.
 
 **Keep It Tidy**
 
